@@ -3,7 +3,7 @@
 User Reviews UI that allows to add/edit/delete reviews.
 A random image fetched from an API is added to a newly created review.
 Reviews are stored in local storage.
-The application is written with the help of React Hooks.
+The application is written in 3 hours with the help of React Hooks.
 
 ## Libraries used
 
